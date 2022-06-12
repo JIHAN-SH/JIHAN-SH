@@ -2,8 +2,10 @@
 - 📍Palestine 🇵🇸
 - 💻Computer Engineering Student @ BZU
 - 🌱 Graphic Designer & programmer
-- 📫 LinkedIn @Jihan Shafei
 - 🤩learning is my passion
+- 📫 LinkedIn @Jihan Shafei
+- 🎇 Behance @jihanalshafei
+
 
 <!---
 JIHAN-SH/JIHAN-SH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
