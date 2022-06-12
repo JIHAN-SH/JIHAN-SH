@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @JIHAN-SH
-- 👀 I’m interested in ...
-- 🌱 I’m Computer Engineering Student @ BZU ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Jihan
+- 📍Palestine 🇵🇸
+- 💻Computer Engineering Student @ BZU
+- 🌱 Graphic Designer & programmer
+- 📫 LinkedIn @Jihan Shafei
+- 🤩learning is my passion
 
 <!---
 JIHAN-SH/JIHAN-SH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
