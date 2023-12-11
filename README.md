@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jihan
 - 📍  Palestine 🇵🇸
-- 💻 Computer Engineering Student @ BZU
+- 💻 Computer Engineer
 - 🌱 Junior UIUX, Graphic Designer & Programmer
 - 📫 LinkedIn @Jihan Shafei
 - 🎇 Behance @jihanalshafei
